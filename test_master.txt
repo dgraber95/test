@@ -1,5 +1,5 @@
 test test test test test
 MASTER MASTER MASTER
-edits edits edits
+edit edit
 
 blah blah blah
